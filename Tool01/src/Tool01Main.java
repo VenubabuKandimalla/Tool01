@@ -12,8 +12,10 @@ public class Tool01Main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		Tool01Main tool = new Tool01Main();
 	
-		System.out.println(new Tool01Main().add(2, 4));
+		System.out.println(tool.add(2, 4));
 	}
 	
 	public int add(int a, int b) {
