@@ -13,7 +13,7 @@ public class Tool01Main {
 	 */
 	public static void main(String[] args) {
 		
-		// Creation of object.
+		// Creation of object.....
 		Tool01Main tool = new Tool01Main();
 	
 		System.out.println(tool.add(2, 4));
