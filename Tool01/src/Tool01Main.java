@@ -16,7 +16,7 @@ public class Tool01Main {
 		// Creation of object.....
 		Tool01Main tool = new Tool01Main();
 	
-		System.out.println(tool.add(2, 8));
+		System.out.println(tool.add(2, 10));
 	}
 	
 	public int add(int a, int b) {
